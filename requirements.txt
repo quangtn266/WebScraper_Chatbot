@@ -1,0 +1,8 @@
+langchain==0.1.0
+pinecone-client==2.2.4
+openai==1.5.0
+tiktoken==0.5.2
+nest-asyncio==1.5.8
+lxml
+BeautifulSoup4
+sentence-transformers
